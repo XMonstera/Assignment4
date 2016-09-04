@@ -6,7 +6,10 @@ activity(int) contains the factor for the activity
 
 activity_desc(chr) contains activity description
 
+
+
 Measurents:
+
 tBodyAcc-mean()-X(num) 
 
 tBodyAcc-mean()-Y(num) 
@@ -164,6 +167,7 @@ fBodyBodyGyroJerkMag-mean()(num)
 fBodyBodyGyroJerkMag-std()(num) 
 
 fBodyBodyGyroJerkMag-meanFreq()(num) 
+
 
 
 
