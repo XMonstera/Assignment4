@@ -1,4 +1,4 @@
-Identifying keys : subjectid and activity
+	Identifying keys : subjectid and activity
 
 subjectid(int) :contains the ID of the subject
 activity(int) contains the factor for the activity
